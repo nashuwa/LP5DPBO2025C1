@@ -1,4 +1,4 @@
-# LP5DPBO2025C1
+# TP4DPBO2025C1
 
 ## Janji
 Saya Nashwa Nadria Futi dengan NIM 2306026 mengerjakan soal Tes Praktikum 5 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
